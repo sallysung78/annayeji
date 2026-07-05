@@ -1,4 +1,4 @@
-## Hi there 👋
+[## Hi there 👋](https://github.com/annayeji/annayeji/tree/claude/annayeji-repo-setup-l72l6v/생활팁)
 
 <!--
 **annayeji/annayeji** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
